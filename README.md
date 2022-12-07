@@ -1,4 +1,5 @@
 # game1
+test code
 ```js
 const deepX = (x, y)=>{
 	if(x>700)return;
